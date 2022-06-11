@@ -1,4 +1,4 @@
-Date: 10/24/2021 EC2 notes 
+EC2 notes 
 
 1. EC2 (Elastic Cloud Compute)
 2. AMI (Amazon Machine Image) which comes with preconfigured software
